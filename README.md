@@ -1,6 +1,8 @@
 # Joining-Lava-Testnet---Manual-Setup
 This guide walks you through the manual installation of the node and joining the Lava Testnet. Note that this process does not include the "Cosmovisor" tool, so after installing the initial genesis binary, you will need to upgrade your node incrementally as described in the upgrade instructions.
 
+![lava_network-860x484](https://github.com/user-attachments/assets/ecfc4b71-0b4e-4039-8ec0-4983c416b904)
+
 ### **Prerequisites**
 
 1. **Verify hardware requirements are met.**
