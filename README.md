@@ -181,7 +181,3 @@ When a new upgrade is required, you will encounter an error indicating the need 
     ```
 
 ### **Welcome to the Lava Testnet 🌋**
-
----
-
-This version retains the essential instructions while improving readability and clarity.
